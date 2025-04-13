@@ -57,7 +57,7 @@ robots domésticos en 2025
 ## 📁 Estructura del proyecto
 
 ```
-Redactor-Llama3.1-V2.5/
+Redactor-Llama3.1/
 ├── redactor.py               # Script principal
 ├── utils.py                  # Funciones auxiliares (lectura CSV, conexión LLM, etc.)
 ├── tematica.txt              # Archivo con las keywords a procesar
