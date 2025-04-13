@@ -18,8 +18,8 @@ Versión estable y funcional de un script de redacción automática que utiliza 
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/Redactor-Llama3.1-V2.5.git
-cd Redactor-Llama3.1-V2.5
+git clone https://github.com/tuusuario/Redactor-Lllama3.1.git
+cd Redactor-Lllama3.1.git
 ```
 
 Asegúrate de que **LM Studio** está corriendo en local y el modelo **LLaMA 3.1** está cargado correctamente.
