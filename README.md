@@ -88,7 +88,7 @@ Este proyecto se distribuye bajo la licencia GPL-3.0 license. Consulta el archiv
 
 **Rafa San Pablo González**  
 Desarrollador de aplicaciones multiplataforma con interés en la inteligencia artificial y la automatización de procesos.  
-[LinkedIn](#www.linkedin.com/in/rafaspg) · [GitHub](#https://github.com/R4F405)
+[LinkedIn](https://www.linkedin.com/in/rafaspg) · [GitHub](https://github.com/R4F405)
 
 ---
 
