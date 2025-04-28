@@ -1,7 +1,7 @@
 
 # 📝 Redactor-Llama3.1-V2.5
 
-Versión estable y funcional de un script de redacción automática que utiliza **LLaMA 3.1** a través de **LM Studio**. Este script genera artículos estructurados (HTML) a partir de palabras clave proporcionadas en un archivo CSV, diseñados para optimización SEO y uso en plataformas como WordPress, aunque es totalmente multifuncional.
+Versión estable y funcional de un script de redacción automática que utiliza **LLaMA 3.1** a través de **LM Studio**. Este script genera artículos estructurados (HTML) a partir de palabras clave proporcionadas en un archivo TXT, diseñados para optimización SEO y uso en plataformas como WordPress, aunque es totalmente multifuncional.
 
 ## 🚀 Características
 
